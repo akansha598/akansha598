@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Akansha Vasistha</h1>
 <h3 align="center">AI/ML Enthusiast | Web Developer | Open to SDE/ML Internships</h3>
 
