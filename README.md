@@ -131,9 +131,9 @@ A smart tool that forecasts sales dips and gives investment recommendations base
 
 ---
 
-## 🤝 Let's Connect
+## 🤝Let's connect and build something meaningful together — I'm just a message away!
 
-Let's connect and build something meaningful together — I'm just a message away!
+
 
 <p>
   <a href="[https://www.linkedin.com/in/akansha-vasistha](https://www.linkedin.com/in/akansha-vasistha-67b8b724b/)/" target="_blank">
