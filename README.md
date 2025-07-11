@@ -7,12 +7,13 @@
 
 <h3 align="center">AI/ML Enthusiast | Web Developer | Open to SDE/Ai-ML Positions</h3>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akansha598&label=Profile%20views&color=0e75b6&style=flat" alt="akansha598" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/akansha-vasistha" target="_blank">
+  <a href="[https://linkedin.com/in/akansha-vasistha](https://www.linkedin.com/in/akansha-vasistha-67b8b724b/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vasisthaakansha@gmail.com">
@@ -82,13 +83,38 @@ Let's connect and build something impactful! ✨
 
 ---
 
-### 🌟 Featured Projects
+## 📁 Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔗 [**Chain Charity**](https://github.com/akansha598/chain-charity) | Blockchain-based crowdfunding platform for social causes | React, Web3, Solidity |
-| 🔗 [**Caretaker Recommendation**](https://github.com/akansha598/caretaker-recommendation) | AI-based system recommending caretakers for elderly | Python, Sklearn |
-| 🔗 [**Walmart Sales Forecast Dashboard**](https://github.com/akansha598/walmart-sales-dashboard) | Streamlit dashboard using festival/weather forecasting | Streamlit, APIs, ML |
+### 🧑‍⚕️CARE-BUUDY - Caretakers and Babysitters Platform  
+A full-stack web application designed to connect caretakers with elderly people in need of medical or personal assistance.  
+- Built with **React.js**, **Node.js**, **Express**, and **MongoDB**  
+- Features user authentication, caretaker booking, managing bookings, query resolver  
+- Includes a **caretaker recommendation system** using experience in partocular medical issues
+ 
+---
+
+### ✋ INTERUSTURE – Hand Gesture Recognition System  
+A real-time hand recognition system for enhanced human-computer interaction.  
+- Built using **OpenCV**, **MediaPipe**, and **Python** to track and interpret hand gestures  
+- Recognizes finger movements and gestures to trigger specific actions  
+- Can be integrated into accessibility tools or gesture-based interfaces
+
+---
+
+### 💬 YouTube Comment Sentiment Analysis  
+An AI-powered web app that analyzes the sentiment of comments on YouTube videos.  
+- Implemented with **DistilBERT** for real-time sentiment scoring 
+- Displays positive/negative comment percentages and top keywords  
+- Integrated YouTube API for seamless comment extraction
+
+---
+
+### 📉 StockShield – Smart Investment Assistant  
+ **Built for Walmart SPARKATHON'25**  
+A smart tool that forecasts sales dips and gives investment recommendations based on real-time market conditions.  
+- Developed a **Streamlit dashboard** using sales data, holidays, and weather as input variables  
+- Integrated **ML models** to forecast sales trends and alert risk zones  
+- Focused on improving retail inventory & financial planning strategies
 
 ---
 
@@ -105,16 +131,26 @@ Let's connect and build something impactful! ✨
 
 ---
 
-### 🤝 Let's Connect!
+## 🤝 Let's Connect
 
-- 📬 Email: [vasisthaakansha@gmail.com](mailto:vasisthaakansha@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/akansha-vasistha](https://linkedin.com/in/akansha-vasistha)  
-- 🧠 LeetCode: [leetcode.com/akansha598](https://leetcode.com/akansha598)  
-- 🌐 Portfolio: *(add your portfolio link if you have one!)*
+Let's connect and build something meaningful together — I'm just a message away!
+
+<p>
+  <a href="[https://www.linkedin.com/in/akansha-vasistha](https://www.linkedin.com/in/akansha-vasistha-67b8b724b/)/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vasisthaakansha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/akansha598" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-### 💡 Fun Fact
-> "Great ideas need execution. I turn coffee ☕ and curiosity into code 💻."
+<h3 align='center'>☕💻 "Code. Coffee. Create. Repeat." </h3>  
+
+
 
 ---
