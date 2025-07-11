@@ -40,7 +40,18 @@ Let's connect and build something impactful! ✨
 ### 🔧 Tech Stack
 
 **Languages**
+
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
+
+**Web Development**
+
+[![My Skills](https://skillicons.dev/icons?i=react,express,node,mongodb)](https://skillicons.dev)
+
+**Ai/ML**
+
+[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,tensorflow,keras,flask)](https://skillicons.dev)
+
 
 🧠 Languages
 <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
