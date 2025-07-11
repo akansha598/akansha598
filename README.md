@@ -30,9 +30,9 @@
 
 - 🎓 Final-year B.Tech CSE student at **JIIT, Noida**
 - 🧩 Passionate about **problem-solving** and turning ideas into real-world solutions
-- 💻 Build intelligent, scalable systems using **Full-Stack Development** and **AI/ML**
+- 💻 Build intelligent, scalable systems using **Development** and **AI/ML**
 - 🛠️ Experienced with **React**, **Node.js**, **MongoDB**, **TensorFlow**, and **Scikit-learn**
-- 🔬 Exploring and continuously expanding my skills
+- 🔬 Exploring evolving and continuously expanding my skills
 - 🚀 Actively seeking **SDE / Ai-Ml Job opportunities**
 
 Let's connect and build something impactful! ✨
