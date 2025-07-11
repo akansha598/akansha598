@@ -1,10 +1,9 @@
 
 <![WhatsApp Image 2025-07-11 at 11 44 55_df050c4a](https://github.com/user-attachments/assets/ab98331b-91e5-456f-93ad-a8ba6422fdd7)
 
-<h1 align="center">Welcome to my github</h1>
-<h4>I'm a final-year Computer Science student with a strong passion for problem-solving and turning ideas into impactful solutions. I enjoy tackling real-world challenges by building intelligent and scalable systems using technologies like full-stack web development and AI/ML.I have created data-driven applications that offer both functionality and great user experience.Currently open to SDE or Ai/ML job opportunities where I can contribute, innovate, and grow.
-
-</h4>
+<h2 align="center">Welcome to my github</h2>
+<h3>Software Developer
+</h3>
 
 <h3 align="center">AI/ML Enthusiast | Web Developer | Open to SDE/Ai-ML Positions</h3>
 
