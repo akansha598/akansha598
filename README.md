@@ -1,7 +1,10 @@
 
 <![WhatsApp Image 2025-07-11 at 11 44 55_df050c4a](https://github.com/user-attachments/assets/ab98331b-91e5-456f-93ad-a8ba6422fdd7)
 
-<h1 align="center">Hi 👋, I'm Akansha Vasistha</h1>
+<h1 align="center">Welcome to my github</h1>
+<h2>I'm a final-year Computer Science student with a strong passion for problem-solving and turning ideas into impactful solutions. I enjoy tackling real-world challenges by building intelligent and scalable systems using technologies like full-stack web development and AI/ML. With experience in tools such as React, Node.js, MongoDB, and frameworks like TensorFlow and Scikit-learn, I create data-driven applications that offer both functionality and great user experience. I'm also exploring Generative AI and constantly expanding my skill set. Currently open to SDE or ML internship opportunities where I can contribute, innovate, and grow.
+
+</h2>
 <h3 align="center">AI/ML Enthusiast | Web Developer | Open to SDE/ML Internships</h3>
 
 <p align="center">
