@@ -75,12 +75,3 @@
 > "Great ideas need execution. I turn coffee ☕ and curiosity into code 💻."
 
 ---
-
-✅ To use this:
-1. Create a repo named `akansha598`
-2. Add this content into the `README.md`
-3. Commit and push!
-
----
-
-Do you want a **banner image** or **personal logo** added at the top? I can design that too if you’d like!
