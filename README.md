@@ -1,4 +1,5 @@
-![Header](./github-header-image.png)
+
+<img width="1536" height="1024" alt="ChatGPT Image Jul 11, 2025, 11_32_22 AM" src="https://github.com/user-attachments/assets/9fbe49af-c6cb-415d-a268-67d6c5dc1a69" />
 
 <h1 align="center">Hi 👋, I'm Akansha Vasistha</h1>
 <h3 align="center">AI/ML Enthusiast | Web Developer | Open to SDE/ML Internships</h3>
