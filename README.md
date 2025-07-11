@@ -2,8 +2,8 @@
 <![WhatsApp Image 2025-07-11 at 11 44 55_df050c4a](https://github.com/user-attachments/assets/ab98331b-91e5-456f-93ad-a8ba6422fdd7)
 
 <h2 align="center">Welcome to my github</h2>
-<h3>Software Developer
-</h3>
+<h1 align="center">Software Developer
+</h1>
 
 <h3 align="center">AI/ML Enthusiast | Web Developer | Open to SDE/Ai-ML Positions</h3>
 
@@ -29,8 +29,8 @@
 - 🧩 Passionate about **problem-solving** and turning ideas into real-world solutions
 - 💻 Build intelligent, scalable systems using **Full-Stack Development** and **AI/ML**
 - 🛠️ Experienced with **React**, **Node.js**, **MongoDB**, **TensorFlow**, and **Scikit-learn**
-- 🔬 Exploring **Generative AI** and continuously expanding my skills
-- 🚀 Actively seeking **SDE / Machine Learning Internship** opportunities
+- 🔬 Exploring and continuously expanding my skills
+- 🚀 Actively seeking **SDE / Ai-Ml Job opportunities**
 
 Let's connect and build something impactful! ✨
 
