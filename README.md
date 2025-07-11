@@ -6,7 +6,7 @@
 
 </h4>
 
-<h3 align="center">AI/ML Enthusiast | Web Developer | Open to SDE/ML Internships</h3>
+<h3 align="center">AI/ML Enthusiast | Web Developer | Open to SDE/Ai-ML Positions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akansha598&label=Profile%20views&color=0e75b6&style=flat" alt="akansha598" />
@@ -19,19 +19,22 @@
   <a href="mailto:vasisthaakansha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/akansha598" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 Final-year B.Tech CSE student at **JIIT, Noida**  
-- 🌟 Passionate about building impactful **AI/ML** and **Web** projects  
-- 🚀 Actively seeking **SDE / Machine Learning Internships**  
-- 🧠 Solving DSA problems regularly — especially love **Greedy** and **DP**
+- 🎓 Final-year B.Tech CSE student at **JIIT, Noida**
+- 🧩 Passionate about **problem-solving** and turning ideas into real-world solutions
+- 💻 Build intelligent, scalable systems using **Full-Stack Development** and **AI/ML**
+- 🛠️ Experienced with **React**, **Node.js**, **MongoDB**, **TensorFlow**, and **Scikit-learn**
+- 🔬 Exploring **Generative AI** and continuously expanding my skills
+- 🚀 Actively seeking **SDE / Machine Learning Internship** opportunities
+
+Let's connect and build something impactful! ✨
+
 
 ---
 
