@@ -1,5 +1,5 @@
 
-<img w![WhatsApp Image 2025-07-11 at 11 44 55_df050c4a](https://github.com/user-attachments/assets/ab98331b-91e5-456f-93ad-a8ba6422fdd7)
+<![WhatsApp Image 2025-07-11 at 11 44 55_df050c4a](https://github.com/user-attachments/assets/ab98331b-91e5-456f-93ad-a8ba6422fdd7)
 
 <h1 align="center">Hi 👋, I'm Akansha Vasistha</h1>
 <h3 align="center">AI/ML Enthusiast | Web Developer | Open to SDE/ML Internships</h3>
