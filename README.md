@@ -1,5 +1,6 @@
 
-<![WhatsApp Image 2025-07-11 at 11 44 55_df050c4a](https://github.com/user-attachments/assets/ab98331b-91e5-456f-93ad-a8ba6422fdd7)
+![WhatsApp Image 2025-07-11 at 11 44 55_df050c4a](https://github.com/user-attachments/assets/ab98331b-91e5-456f-93ad-a8ba6422fdd7)
+<img src="https://github.com/user-attachments/assets/ab98331b-91e5-456f-93ad-a8ba6422fdd7" width="800"/>
 
 <h2 align="center">Welcome to my github</h2>
 <h1 align="center">Software Developer
