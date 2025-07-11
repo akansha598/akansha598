@@ -1,16 +1,86 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Akansha Vasistha</h1>
+<h3 align="center">AI/ML Enthusiast | Web Developer | Open to SDE/ML Internships</h3>
 
-<!--
-**akansha598/akansha598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akansha598&label=Profile%20views&color=0e75b6&style=flat" alt="akansha598" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/akansha-vasistha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vasisthaakansha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/akansha598" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Final-year B.Tech CSE student at **JIIT, Noida**  
+- 🌟 Passionate about building impactful **AI/ML** and **Web** projects  
+- 🚀 Actively seeking **SDE / Machine Learning Internships**  
+- 🧠 Solving DSA problems regularly — especially love **Greedy** and **DP**
+
+---
+
+### 🔧 Tech Stack
+
+| Domain | Tools / Technologies |
+|--------|----------------------|
+| **Languages** | Python, C++, JavaScript, SQL |
+| **Web Dev** | React.js, Node.js, Express.js, MongoDB, Tailwind CSS |
+| **AI/ML** | Scikit-learn, TensorFlow, Keras, Pandas, NumPy |
+| **Other Tools** | Git, Postman, Docker, Firebase, Streamlit, VSCode |
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔗 [**Chain Charity**](https://github.com/akansha598/chain-charity) | Blockchain-based crowdfunding platform for social causes | React, Web3, Solidity |
+| 🔗 [**Caretaker Recommendation**](https://github.com/akansha598/caretaker-recommendation) | AI-based system recommending caretakers for elderly | Python, Sklearn |
+| 🔗 [**Walmart Sales Forecast Dashboard**](https://github.com/akansha598/walmart-sales-dashboard) | Streamlit dashboard using festival/weather forecasting | Streamlit, APIs, ML |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akansha598&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akansha598&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akansha598&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+- 📬 Email: [vasisthaakansha@gmail.com](mailto:vasisthaakansha@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/akansha-vasistha](https://linkedin.com/in/akansha-vasistha)  
+- 🧠 LeetCode: [leetcode.com/akansha598](https://leetcode.com/akansha598)  
+- 🌐 Portfolio: *(add your portfolio link if you have one!)*
+
+---
+
+### 💡 Fun Fact
+> "Great ideas need execution. I turn coffee ☕ and curiosity into code 💻."
+
+---
+
+✅ To use this:
+1. Create a repo named `akansha598`
+2. Add this content into the `README.md`
+3. Commit and push!
+
+---
+
+Do you want a **banner image** or **personal logo** added at the top? I can design that too if you’d like!
