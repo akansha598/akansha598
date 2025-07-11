@@ -32,7 +32,7 @@
 - 🧩 Passionate about **problem-solving** and turning ideas into real-world solutions
 - 💻 Build intelligent, scalable systems using **Development** and **AI/ML**
 - 🛠️ Experienced with **React**, **Node.js**, **MongoDB**, **TensorFlow**, and **Scikit-learn**
-- 🔬 Exploring evolving and continuously expanding my skills
+- 🔬 Exploring Evolving Technologies and continuously expanding my skills
 - 🚀 Actively seeking **SDE / Ai-Ml Job opportunities**
 
 Let's connect and build something impactful! ✨
