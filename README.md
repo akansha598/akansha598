@@ -1,5 +1,5 @@
 
-<img width="1200" height="250" alt="ChatGPT Image Jul 11, 2025, 11_32_22 AM" src="https://github.com/user-attachments/assets/9fbe49af-c6cb-415d-a268-67d6c5dc1a69" />
+<img width="1000" height="400" alt="ChatGPT Image Jul 11, 2025, 11_32_22 AM" src="https://github.com/user-attachments/assets/9fbe49af-c6cb-415d-a268-67d6c5dc1a69" />
 
 <h1 align="center">Hi 👋, I'm Akansha Vasistha</h1>
 <h3 align="center">AI/ML Enthusiast | Web Developer | Open to SDE/ML Internships</h3>
