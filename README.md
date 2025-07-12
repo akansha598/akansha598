@@ -84,7 +84,7 @@ Let's connect and build something impactful! ✨
 
 ---
 
-## 📁 Projects
+## Technical Projects
 
 ### 🧑‍⚕️CARE-BUUDY - Caretakers and Babysitters Platform  
 A full-stack web application designed to connect caretakers with elderly people in need of medical or personal assistance.  
