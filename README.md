@@ -3,10 +3,11 @@
   <img src="https://github.com/user-attachments/assets/ab98331b-91e5-456f-93ad-a8ba6422fdd7" width="900" height="300"/>
 </div>
 
-<h1 align="center">Software Developer
+<h1 align="center">Data Science/Ai-ML Enthusiast
 </h1>
 
-<h3 align="center">AI/ML Enthusiast | Web Developer | Open to SDE/Ai-ML Positions</h3>
+
+
 
 
 <p align="center">
@@ -28,10 +29,10 @@
 
 - 🎓 Final-year B.Tech CSE student at **JIIT, Noida**
 - 🧩 Passionate about **problem-solving** and turning ideas into real-world solutions
-- 💻 Build intelligent, scalable systems using **Development** and **AI/ML**
-- 🛠️ Experienced with **React**, **Node.js**, **MongoDB**, **TensorFlow**, and **Scikit-learn**
+- 💻 Build intelligent, scalable systems using **Data Science** and **AI/ML**
+- 🛠️ Experienced with **Numpy**, **Pandas**, **Data Preprocessing**, **TensorFlow**, and **Scikit-learn**
 - 🔬 Exploring Evolving Technologies and continuously expanding my skills
-- 🚀 Actively seeking **SDE / Ai-Ml Job opportunities**
+- 🚀 Actively seeking **Data Science / Ai-Ml Job opportunities**
 
 Let's connect and build something impactful! ✨
 
