@@ -30,7 +30,7 @@
 - 🎓 Final-year B.Tech CSE student at **JIIT, Noida**
 - 🧩 Passionate about **problem-solving** and turning ideas into real-world solutions
 - 💻 Build intelligent, scalable systems using **Data Science** and **AI/ML**
-- 🛠️ Experienced with **Numpy**, **Pandas**, **Data Preprocessing**, **TensorFlow**, and **Scikit-learn**
+- 🛠️ Experienced with **Numpy**, **Pandas**, **Data Preprocessing**, **Machine Learning**, and **Scikit-learn**
 - 🔬 Exploring Evolving Technologies and continuously expanding my skills
 - 🚀 Actively seeking **Data Science / Ai-Ml Job opportunities**
 
@@ -92,13 +92,7 @@ A real-time hand recognition system for enhanced human-computer interaction.
 - Recognizes finger movements and gestures to trigger specific actions  
 - Can be integrated into accessibility tools or gesture-based interfaces
 
----
 
-### 💬 YouTube Comment Sentiment Analysis  
-An AI-powered web app that analyzes the sentiment of comments on YouTube videos.  
-- Implemented with **DistilBERT** for real-time sentiment scoring 
-- Displays positive/negative comment percentages and top keywords  
-- Integrated YouTube API for seamless comment extraction
 
 ---
 
