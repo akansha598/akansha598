@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[https://github.com/user-attachments/assets/ab98331b-91e5-456f-93ad-a8ba6422fdd7](https://github.com/akansha598/akansha598/blob/main/ChatGPT%20Image%20Sep%2017,%202025,%2007_21_06%20AM.png?raw=true)" width="900" height="300"/>
+  <img src="https://github.com/akansha598/akansha598/blob/main/ChatGPT%20Image%20Sep%2017,%202025,%2007_21_06%20AM.png?raw=true" width="900" height="300"/>
   
 </div>
 
