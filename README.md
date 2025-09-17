@@ -61,7 +61,6 @@ Let's connect and build something impactful! ✨
   <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=spaCy&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 ---
