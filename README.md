@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/akansha598/akansha598/blob/main/githubimage.png?raw=true" width="800" height="500"/>
+  <img src="https://github.com/akansha598/akansha598/blob/main/githubimage.png?raw=true" width="900" height="400"/>
   
 </div>
 
