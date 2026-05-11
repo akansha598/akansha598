@@ -78,6 +78,16 @@ Let's connect and build something impactful! ✨
 
 ## Technical Projects
 
+### 🥗 NUTRIFY - AI-Powered Nutrition & Health Platform
+
+A smart health and nutrition platform designed to help users maintain a healthy lifestyle through personalized diet recommendations, calorie tracking, and AI-driven health insights.
+
+- Built with **React.js, Node.js, Express, MongoDB, and Machine Learning**
+- Features **BMI calculation, calorie tracking, personalized diet plans, and authentication**
+- Includes an **AI-based recommendation system** for suggesting meals and nutrition plans based on user health goals and preferences
+- Conducted a **Google Form-based survey** for user research and analysis
+- Published a **research paper** based on the project findings and nutritional data insights
+
 ### 🧑‍⚕️CARE-BUUDY - Caretakers and Babysitters Platform  
 A full-stack web application designed to connect caretakers with elderly people in need of medical or personal assistance.  
 - Built with **React.js**, **Node.js**, **Express**, and **MongoDB**  
