@@ -7,7 +7,9 @@
 <h1 align="center">Data Science/Ai-ML Enthusiast
 </h1>
 
-
+<h2 align="center">
+  🚀 <a href="https://portfolio-psda.vercel.app">Visit My Portfolio</a>
+</h2>
 
 
 
@@ -15,10 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=akansha598&label=Profile%20views&color=0e75b6&style=flat" alt="akansha598" />
 </p>
 
-<p>
-   🚀 Explore my complete portfolio here:
-   <a href="https://portfolio-psda.vercel.app/">Visit Portfolio</a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akansha-vasistha-67b8b724b/" target="_blank">
