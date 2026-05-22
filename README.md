@@ -17,7 +17,7 @@
 
 <p>
    🚀 Explore my complete portfolio here:
-   <a href="[https://portfolio.com](https://portfolio-psda.vercel.app/)">Visit Portfolio</a>
+   <a href="https://portfolio-psda.vercel.app/">Visit Portfolio</a>
 </p>
 
 <p align="center">
